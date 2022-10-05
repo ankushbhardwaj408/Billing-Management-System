@@ -5,10 +5,17 @@
         <group>
             <file>file:/C:/Users/DELL/OneDrive/Documents/NetBeansProjects/BillingManagementSystem/src/Project/ConnectionProvider.java</file>
             <file>file:/C:/Users/DELL/OneDrive/Documents/NetBeansProjects/BillingManagementSystem/src/newbuyer.java</file>
+            <file>file:/C:/Users/DELL/OneDrive/Documents/NetBeansProjects/BillingManagementSystem/src/deletebuyer.java</file>
             <file>file:/C:/Users/DELL/OneDrive/Documents/NetBeansProjects/BillingManagementSystem/src/updatebuyer.java</file>
-            <file>file:/C:/Users/DELL/OneDrive/Documents/NetBeansProjects/BillingManagementSystem/src/billingmanagementsystem/BillingManagementSystem.java</file>
+            <file>file:/C:/Users/DELL/OneDrive/Documents/NetBeansProjects/BillingManagementSystem/src/deleteproduct.java</file>
             <file>file:/C:/Users/DELL/OneDrive/Documents/NetBeansProjects/BillingManagementSystem/src/home.java</file>
             <file>file:/C:/Users/DELL/OneDrive/Documents/NetBeansProjects/BillingManagementSystem/src/login.java</file>
+            <file>file:/C:/Users/DELL/OneDrive/Documents/NetBeansProjects/BillingManagementSystem/src/updateproduct.java</file>
+            <file>file:/C:/Users/DELL/OneDrive/Documents/NetBeansProjects/BillingManagementSystem/src/billing.java</file>
+            <file>file:/C:/Users/DELL/OneDrive/Documents/NetBeansProjects/BillingManagementSystem/src/billingmanagementsystem/BillingManagementSystem.java</file>
+            <file>file:/C:/Users/DELL/OneDrive/Documents/NetBeansProjects/BillingManagementSystem/src/productdetails.java</file>
+            <file>file:/C:/Users/DELL/OneDrive/Documents/NetBeansProjects/BillingManagementSystem/src/newproduct.java</file>
+            <file>file:/C:/Users/DELL/OneDrive/Documents/NetBeansProjects/BillingManagementSystem/src/buyerdetails.java</file>
         </group>
     </open-files>
 </project-private>
